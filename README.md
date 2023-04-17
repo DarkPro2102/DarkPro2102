@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Hello, I'm Diego Bejarano, a junior Python developer with a passion for artificial intelligence and machine learning. I'm currently working on projects to build my skills and get my first job in the field of data science or artificial intelligence. Learning new things every day is my main goal, and I believe that my passion for technology and my dedication to learning make me a strong candidate for any future opportunities.
+Hello, I'm Diego Bejarano, a Python developer with a passion for artificial intelligence and machine learning. I'm currently working on projects to improve my skills in the field of data science or artificial intelligence. Learning new things every day is my main goal and I am always looking for opportunities to keep learning and improve my abilities. 
 
 ## Projects
 
@@ -22,9 +22,18 @@ Here are some of the skills and technologies that I'm proficient in:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![NumPy](https://img.shields.io/badge/-Numpy-%23013243?logo=numpy&logoColor=white&style=for-the-badge&labelColor=101010)]()
 [![Pandas](https://img.shields.io/badge/-Pandas-%23150458?logo=pandas&logoColor=white&style=for-the-badge&labelColor=101010)]()
+<br></br>
 [![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=101010)]()
 [![GitHub](https://img.shields.io/badge/GitHub-%236e5494?logo=github&logoColor=white&style=for-the-badge&labelColor=101010)]()
+[![CSharp](https://img.shields.io/badge/csharp-%23239120?logo=csharp&logoColor=white&style=for-the-badge&labelColor=101010)]()
 
+
+### Fields of interest:
+
+ - Machine Learning
+ - Data Science
+ - Game Development
+ - IoT
 
 ## Education
 
