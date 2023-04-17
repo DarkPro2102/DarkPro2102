@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Hello, I'm Diego Bejarano, a Python developer with a passion for artificial intelligence and machine learning. I'm currently working on projects to improve my skills in the field of data science and artificial intelligence. Learning new things every day is my main goal and I am always looking for opportunities to keep learning and improve my abilities. 
+Hello, I'm Diego Bejarano, a Python developer with a strong passion for exploring the fields of Machine Learning (ML) and Artificial Intelligence (AI). Additionally, I possess practical knowledge of game development with Unity. 
+
+I'm currently working on projects to improve my skills in the field of AI. My main goal is to learn and improve every day, always seeking new opportunities.
 
 ## Projects
 
