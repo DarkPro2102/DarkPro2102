@@ -4,17 +4,17 @@
 
 ## Introduction
 
-Hello, I'm Diego Bejarano, a Python developer with a strong passion for exploring the fields of Machine Learning (ML) and Artificial Intelligence (AI). Additionally, I possess practical knowledge of game development with Unity. 
+Hello, I'm Diego Bejarano, a Python developer with a strong passion for exploring Machine Learning (ML) and Artificial Intelligence (AI) to solve real-world problems, particularly in bioinformatics and its applications in medicine.
 
 I'm currently working on projects to improve my skills in the field of AI. My main goal is to learn and improve every day, always seeking new opportunities.
 
 ## Projects
 
 Here are some of the projects that I'm currently working on:
-
-    Project 1: A machine learning project that predicts the stock prices of a company using various algorithms.
    
-    Project 2: A deep learning project that detects and classifies objects in images.
+    Project 1: A deep learning project that detects and classifies objects in images.
+
+    Project 2: Predicting Protein Localization Using AI models.
 
 ## Skills
 
@@ -32,9 +32,9 @@ Here are some of the skills and technologies that I'm proficient in:
 
 ### Fields of interest:
 
+ - Bioinformatics
  - Machine Learning
  - Data Science
- - Game Development
  - IoT
 
 ## Education
